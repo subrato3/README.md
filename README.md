@@ -30,11 +30,11 @@
 
 <p>&nbsp;
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=subrato3&show_icons=true&theme=tokyonight" alt="Sreekesh GitHub Stats"> </P>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=subrato3&show_icons=true&theme=tokyonight" alt="Subrato GitHub Stats"> </P>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subrato3&theme=tokyonight" alt="sreekeshiyer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subrato3&theme=tokyonight" alt="Subrato github streak" /></p>
 
 ## You can also reach me at:
 
 <a href="https://www.instagram.com/subrato.tapaswi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subrato.tapaswi" height="40" width="40" /></a> &nbsp;
-<a href="https://twitter.com/subrato_tapaswi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreekeshiyer" height="40" width="40" /></a>
+<a href="https://twitter.com/subrato_tapaswi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subrato_tapaswi" height="40" width="40" /></a>
