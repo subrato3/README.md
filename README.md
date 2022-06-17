@@ -7,7 +7,7 @@
 ### Contact me at
 
 - :email: **subrato3tapaswi@gmail.com**;
--   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) &nbsp; My LinkedIn Profile ](https://www.linkedin.com/in/subrato-tapaswi-874bb4223/)
+-   [![Linkedin](https://i.stack.imgur.com/gVE0j.png){{: height="75px" width="300px"} &nbsp; My LinkedIn Profile ](https://www.linkedin.com/in/subrato-tapaswi-874bb4223/)
   &nbsp;
 -
 
