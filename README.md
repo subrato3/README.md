@@ -1,4 +1,4 @@
-<h1 align="center">Hey, this is Subrato Tapaswi!</h1>
+<h1 align="center">Hey! this is Subrato Tapaswi</h1>
 
 ## Welcome to my GitHub Profile :v:
 
