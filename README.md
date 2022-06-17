@@ -1,6 +1,8 @@
-#Hey, this is Subrato Tapaswi!
+<h1 align="center">Hey, this is Subrato Tapaswi!</h1>
 
-*Contact me at __subrato3tapaswi@gmail.com__
+##Welcome
+
+-Contact me at __subrato3tapaswi@gmail.com__
 
 <p align="justify"> 
 
