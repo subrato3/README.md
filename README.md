@@ -2,12 +2,10 @@
 
 ## Welcome to my GitHub Profile
 
-<hr>
-
 ### Contact me at
 
 - :email: **subrato3tapaswi@gmail.com**;
--   [![Linkedin](https://i.stack.imgur.com/gVE0j.png)&nbsp; My LinkedIn Profile ](https://www.linkedin.com/in/subrato-tapaswi-874bb4223/)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)&nbsp; My LinkedIn Profile ](https://www.linkedin.com/in/subrato-tapaswi-874bb4223/)
   &nbsp;
 -
 
@@ -15,7 +13,6 @@
 
 ## Languages and Tools:
 
-<hr>
 <br>
  
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
@@ -28,3 +25,16 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+
+## GitHub Stats:
+
+<p>&nbsp;
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=subrato3&show_icons=true&theme=tokyonight" alt="Sreekesh GitHub Stats"> </P>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subrato3&theme=tokyonight" alt="sreekeshiyer" /></p>
+
+## You can also reach me at:
+
+<a href="https://www.instagram.com/subrato.tapaswi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subrato.tapaswi" height="40" width="40" /></a> &nbsp;
+<a href="https://twitter.com/subrato_tapaswi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreekeshiyer" height="40" width="40" /></a>
