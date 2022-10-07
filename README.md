@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Profile:v:
 
-[![@subrato3tapaswi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://www.holopin.io/@subrato3tapaswi)
+[![@subrato3tapaswi's Holopin board](https://holopin.io/api/user/board?user=subrato3tapaswi)](https://www.holopin.io/@subrato3tapaswi)
 ### Contact me at
 
 - :email: **subrato3tapaswi@gmail.com**
