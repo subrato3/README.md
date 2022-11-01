@@ -3,7 +3,6 @@
 ## Welcome to my GitHub Profile:v:
 
 [![@subrato3tapaswi's Holopin board](https://holopin.io/api/user/board?user=subrato3tapaswi)](https://www.holopin.io/@subrato3tapaswi)
-https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png
 ### Contact me at
 
 - :email: **subrato3tapaswi@gmail.com**
